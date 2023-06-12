@@ -1,0 +1,3 @@
+# Diabetes_Prediction
+According to International Diabetes Federation, there are 382 million diabetics worldwide this will rise to 592 million by 2035. By utilizing variety of ML techniques, model will perform early prognosis in human body with higher degree of precision by building models from patient-generated information, and forecasting outcomes more accurately. The paper talks about deals with predicting diabetes using ensemble techniques and machine learning ML classification on dataset i.e.  KNN, LR, SVM, RFC and GNB. The research demonstrates accuracy to forecast diabetes with confidence level of 96% on LR, 84% SVM, 84% RFC, 84% for GNB and 78% KNN.
+
